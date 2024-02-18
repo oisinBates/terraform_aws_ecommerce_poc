@@ -1,0 +1,29 @@
+{
+    "dateOrdered": "2023-01-22",
+    "total": "$26.99",
+    "deliveryAddress": "123 Fake Street",
+    "orderReference": "abc123",
+    "products": [
+        {
+            "name": "Coffee Beans",
+            "description": "Whole Bean Coffee Beans. Origin Kenya.",
+            "price": "$9.99",
+            "orderReference": "abc123",
+            "productId": "def4"
+        },
+        {
+            "name": "Cofee Grinder",
+            "description": "Hand-held grinder for home coffee grinding.",
+            "price": "$19.99",
+            "orderReference": "abc123",
+            "productId": "ghi5"            
+        },
+        {
+            "name": "French Press",
+            "description": "Coffee press for at-home coffee brewing.",
+            "price": "$14.99",
+            "orderReference": "abc123",
+            "productId": "klm6"            
+        }
+    ]
+}

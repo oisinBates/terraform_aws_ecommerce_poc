@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Coffee Beans",
+        "description": "Whole Bean Coffee Beans. Origin Kenya.",
+        "price": "$9.99",
+        "orderReference": "abc123",
+        "productId": "def4"
+    },
+    {
+        "name": "Cofee Grinder",
+        "description": "Hand-held grinder for home coffee grinding.",
+        "price": "$19.99",
+        "orderReference": "abc123",
+        "productId": "hij5"
+    },
+    {
+        "name": "French Press",
+        "description": "Coffee press for at-home coffee brewing.",
+        "price": "$14.99",
+        "orderReference": "abc123",
+        "productId": "klm6"
+    }
+]
